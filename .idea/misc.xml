@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/activity_grid_list.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/activity_horizontal_list.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/activity_vertical_list.xml" value="0.32760416666666664" />
         <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/list_item.xml" value="0.32760416666666664" />
         <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/list_item2.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/omjcr/AndroidStudioProjects/customRecyclerView/app/src/main/res/layout/list_item_gird.xml" value="0.33177083333333335" />
       </map>
     </option>
   </component>
