@@ -20,7 +20,8 @@ class HorizontalListActivity : AppCompatActivity() {
 
         binding.hRecyclerView.adapter = ItemAdapter(
             applicationContext,
-            myDataset
+            myDataset,
+            0
         )
 
         binding.hRecyclerView.setHasFixedSize(true)

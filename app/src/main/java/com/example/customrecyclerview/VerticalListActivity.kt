@@ -23,7 +23,8 @@ class VerticalListActivity : AppCompatActivity() {
 
         binding.vRecyclerView.adapter = ItemAdapter(
             applicationContext,
-            myDataset
+            myDataset,
+            0
         )
 
         binding.vRecyclerView.setHasFixedSize(true)

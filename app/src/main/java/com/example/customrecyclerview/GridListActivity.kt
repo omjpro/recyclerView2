@@ -20,7 +20,8 @@ class GridListActivity : AppCompatActivity() {
 
         binding.gRecyclerView.adapter = ItemAdapter(
             applicationContext,
-            myDataset
+            myDataset,
+            0
         )
         
         binding.gRecyclerView.setHasFixedSize(true)

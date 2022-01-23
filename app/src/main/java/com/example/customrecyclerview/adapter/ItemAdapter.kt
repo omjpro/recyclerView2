@@ -19,7 +19,7 @@ class ItemAdapter(
     class ItemViewHolder(private val view: View) : RecyclerView.ViewHolder(view) {
         val textView: TextView = view.findViewById(R.id.item_title)
         val imageView: ImageView = view.findViewById(R.id.item_image)
-    }
+    } // 액티비티에 있을 때는 뷰바인딩을 사용하여 매개변수에 binding:listItemBinding을 넣어 findVIewById를 제거(불필요)
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
         val adapterLayout = LayoutInflater.from(parent.context)
